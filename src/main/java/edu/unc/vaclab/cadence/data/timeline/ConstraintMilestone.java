@@ -7,8 +7,8 @@ import edu.unc.vaclab.cadence.data.JSONSerializable;
 import edu.unc.vaclab.cadence.query.Constraint;
 import edu.unc.vaclab.cadence.query.DateConstraint;
 import edu.unc.vaclab.cadence.query.EventTypeConstraint;
-import org.apache.commons.json.JSONException;
-import org.apache.commons.json.JSONObject;
+import org.apache.wink.json4j.JSONException;
+import org.apache.wink.json4j.JSONObject;
 
 import java.util.HashMap;
 import java.util.List;

@@ -4,8 +4,8 @@ import edu.unc.vaclab.cadence.data.Entity;
 import edu.unc.vaclab.cadence.data.EventSpan;
 import edu.unc.vaclab.cadence.data.JSONSerializable;
 import edu.unc.vaclab.cadence.query.RelationConstraint;
-import org.apache.commons.json.JSONException;
-import org.apache.commons.json.JSONObject;
+import org.apache.wink.json4j.JSONException;
+import org.apache.wink.json4j.JSONObject;
 
 import java.time.Duration;
 import java.util.HashMap;

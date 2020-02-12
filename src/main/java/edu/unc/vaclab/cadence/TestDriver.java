@@ -6,8 +6,8 @@ import edu.unc.vaclab.cadence.data.EventSpan;
 import edu.unc.vaclab.cadence.data.connectors.CSVWithOHDSIVocabDataConnector;
 import edu.unc.vaclab.cadence.data.vocab.Vocabulary;
 import edu.unc.vaclab.cadence.query.Query;
-import org.apache.commons.json.JSONException;
-import org.apache.commons.json.JSONObject;
+import org.apache.wink.json4j.JSONException;
+import org.apache.wink.json4j.JSONObject;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

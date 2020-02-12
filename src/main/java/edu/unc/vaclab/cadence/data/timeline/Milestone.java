@@ -5,9 +5,9 @@ import edu.unc.vaclab.cadence.data.EventSpan;
 import edu.unc.vaclab.cadence.data.JSONSerializable;
 import edu.unc.vaclab.cadence.data.stats.MilestoneStats;
 import edu.unc.vaclab.cadence.data.stats.TimelineStats;
-import org.apache.commons.json.JSONArray;
-import org.apache.commons.json.JSONException;
-import org.apache.commons.json.JSONObject;
+import org.apache.wink.json4j.JSONArray;
+import org.apache.wink.json4j.JSONException;
+import org.apache.wink.json4j.JSONObject;
 
 import java.util.ArrayList;
 import java.util.List;

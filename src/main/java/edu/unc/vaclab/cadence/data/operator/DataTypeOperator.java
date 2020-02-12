@@ -3,8 +3,8 @@ package edu.unc.vaclab.cadence.data.operator;
 import edu.unc.vaclab.cadence.data.*;
 import edu.unc.vaclab.cadence.query.AttributeConstraint;
 import edu.unc.vaclab.cadence.query.Query;
-import org.apache.commons.json.JSONException;
-import org.apache.commons.json.JSONObject;
+import org.apache.wink.json4j.JSONException;
+import org.apache.wink.json4j.JSONObject;
 
 import java.util.ArrayList;
 import java.util.Comparator;

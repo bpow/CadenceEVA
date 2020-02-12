@@ -1,7 +1,7 @@
 package edu.unc.vaclab.cadence.data;
 
-import org.apache.commons.json.JSONException;
-import org.apache.commons.json.JSONObject;
+import org.apache.wink.json4j.JSONException;
+import org.apache.wink.json4j.JSONObject;
 
 import java.io.Serializable;
 import java.text.DateFormat;

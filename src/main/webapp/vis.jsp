@@ -5,8 +5,8 @@
 <%@ page import="edu.unc.vaclab.cadence.data.CohortTree" %>
 <%@ page import="edu.unc.vaclab.cadence.data.DataSet" %>
 <%@ page import="edu.unc.vaclab.cadence.query.Query" %>
-<%@ page import="org.apache.commons.json.JSONException" %>
-<%@ page import="org.apache.commons.json.JSONObject" %>
+<%@ page import="org.apache.wink.json4j.JSONException" %>
+<%@ page import="org.apache.wink.json4j.JSONObject" %>
 <%
     HttpSession _session = request.getSession();
     ServletContext _context = _session.getServletContext();

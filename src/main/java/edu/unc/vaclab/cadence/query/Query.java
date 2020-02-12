@@ -4,8 +4,8 @@ import edu.unc.vaclab.cadence.data.AttributedDataType;
 import edu.unc.vaclab.cadence.data.DataType;
 import edu.unc.vaclab.cadence.data.timeline.Timeline;
 import edu.unc.vaclab.cadence.data.vocab.Vocabulary;
-import org.apache.commons.json.JSONException;
-import org.apache.commons.json.JSONObject;
+import org.apache.wink.json4j.JSONException;
+import org.apache.wink.json4j.JSONObject;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

@@ -6,9 +6,9 @@ import edu.unc.vaclab.cadence.data.DataType;
 import edu.unc.vaclab.cadence.data.stats.CohortStats;
 import edu.unc.vaclab.cadence.data.JSONSerializable;
 import edu.unc.vaclab.cadence.query.*;
-import org.apache.commons.json.JSONArray;
-import org.apache.commons.json.JSONException;
-import org.apache.commons.json.JSONObject;
+import org.apache.wink.json4j.JSONArray;
+import org.apache.wink.json4j.JSONException;
+import org.apache.wink.json4j.JSONObject;
 import org.apache.commons.math3.stat.StatUtils;
 
 import javax.xml.crypto.Data;

@@ -5,9 +5,9 @@ import edu.unc.vaclab.cadence.data.timeline.ConstraintMilestone;
 import edu.unc.vaclab.cadence.data.timeline.Milestone;
 import edu.unc.vaclab.cadence.data.timeline.Pathway;
 import edu.unc.vaclab.cadence.query.Constraint;
-import org.apache.commons.json.JSONArray;
-import org.apache.commons.json.JSONException;
-import org.apache.commons.json.JSONObject;
+import org.apache.wink.json4j.JSONArray;
+import org.apache.wink.json4j.JSONException;
+import org.apache.wink.json4j.JSONObject;
 
 import java.util.List;
 

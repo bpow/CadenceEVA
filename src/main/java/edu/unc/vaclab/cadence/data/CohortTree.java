@@ -4,8 +4,8 @@ import edu.unc.vaclab.cadence.data.distance.DistanceMap;
 import edu.unc.vaclab.cadence.data.operator.DataTypeOperator;
 import edu.unc.vaclab.cadence.data.operator.Operator;
 import edu.unc.vaclab.cadence.data.operator.TimelineOperator;
-import org.apache.commons.json.JSONException;
-import org.apache.commons.json.JSONObject;
+import org.apache.wink.json4j.JSONException;
+import org.apache.wink.json4j.JSONObject;
 
 import java.util.HashMap;
 import java.util.Map;

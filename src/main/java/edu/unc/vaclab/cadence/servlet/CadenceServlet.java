@@ -1,9 +1,9 @@
 package edu.unc.vaclab.cadence.servlet;
 
 import edu.unc.vaclab.cadence.SessionState;
-import org.apache.commons.json.JSON;
-import org.apache.commons.json.JSONException;
-import org.apache.commons.json.JSONObject;
+import org.apache.wink.json4j.JSON;
+import org.apache.wink.json4j.JSONException;
+import org.apache.wink.json4j.JSONObject;
 
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
